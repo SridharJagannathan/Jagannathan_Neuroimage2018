@@ -3,7 +3,7 @@ This repository contains all the data and analysis code to reproduce the followi
 ## Neuroimage Manuscript 
 ``` "Tracking wakefulness as it fades: micro-measures of Alertness" ```
 
-```  doi:  ```    
+```  doi:  https://doi.org/10.1016/j.neuroimage.2018.04.046 ```    
 
 ## Jupyter Notebooks
 * All the important figures are reproduced in a user-friendly format in [notebooks](https://github.com/SridharJagannathan/Jagannathan_Neuroimage2018/tree/master/Scripts/notebooks)
